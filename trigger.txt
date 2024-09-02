@@ -1,1 +1,15 @@
-chivalry1314/dify-api:a75970169f19ff106974c4217bb4b3400c650a48 registry.cn-hangzhou.aliyuncs.com/gkzx2024/dify-gkzx-api:202407081133
+langgenius/dify-api:0.7.2 registry.cn-chengdu.aliyuncs.com/shipeng001/dify-api:0.7.2
+
+langgenius/dify-web:0.7.2 registry.cn-chengdu.aliyuncs.com/shipeng001/dify-web:0.7.2
+
+postgres:15-alpine registry.cn-chengdu.aliyuncs.com/shipeng001/postgres:15-alpine
+
+redis:6-alpine registry.cn-chengdu.aliyuncs.com/shipeng001/redis:6-alpine
+
+semitechnologies/weaviate:1.19.0 registry.cn-chengdu.aliyuncs.com/shipeng001/weaviate:1.19.0
+
+langgenius/dify-sandbox:0.2.6 registry.cn-chengdu.aliyuncs.com/shipeng001/dify-sandbox:0.2.6
+
+ubuntu/squid:latest registry.cn-chengdu.aliyuncs.com/shipeng001/squid:latest
+
+nginx:latest registry.cn-chengdu.aliyuncs.com/shipeng001/nginx:latest
