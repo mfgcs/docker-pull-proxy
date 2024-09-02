@@ -14,3 +14,4 @@ ubuntu/squid:latest registry.cn-chengdu.aliyuncs.com/shipeng001/squid:latest
 
 nginx:latest registry.cn-chengdu.aliyuncs.com/shipeng001/nginx:latest
 
+ 
