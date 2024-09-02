@@ -13,3 +13,4 @@ langgenius/dify-sandbox:0.2.6 registry.cn-chengdu.aliyuncs.com/shipeng001/dify-s
 ubuntu/squid:latest registry.cn-chengdu.aliyuncs.com/shipeng001/squid:latest
 
 nginx:latest registry.cn-chengdu.aliyuncs.com/shipeng001/nginx:latest
+
